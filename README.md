@@ -1,2 +1,4 @@
 # Bookshop-Management-App
-A console-based app to manage a bookstore using C++ and MySQL
+This is a robust, console-based application in C++ integrated with MySQL to efficiently manage a virtual bookstore. The application dynamically handles multiple entities, including books, employees, members, purchases, and sales, each within its respective database table. Key functionalities encompass adding, modifying, deleting, and viewing data, providing seamless database management.
+
+Throughout this project, I honed my expertise in object-oriented programming, specifically in designing and implementing classes, managing complex input/output operations, and crafting efficient SQL queries for database management. This experience solidified my proficiency in both C++ and SQL, and demonstrated my capability to engineer comprehensive solutions in a real-world context.
